@@ -12,7 +12,7 @@ export default function Feed() {
 
                 {/* Cartão com animação */}
                 <div className="transform opacity-0 animate-slide-up rounded-lg">
-                    <div className="flex items-center justify-center w-[400px] h-[400px] md:w-[600px] md:h-[600px] rounded-full overflow-hidden shadow-lg bg-gray-800">
+                    <div className="flex items-center justify-center w-[400px] h-[400px] md:w-[500px] md:h-[600px] rounded-full overflow-hidden shadow-lg bg-gray-800">
                         <Image
                             src="/imagens/perfil1.jpg"
                             alt="Imagem"
