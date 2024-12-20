@@ -16,7 +16,7 @@ export default function Feed() {
                         <Image
                             src="/imagens/perfil1.jpg"
                             alt="Imagem"
-                            width={800}
+                            width={700}
                             height={800}
                             className="w-full h-full object-cover"
                         />
